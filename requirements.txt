@@ -1,0 +1,4 @@
+python-dotenv==0.20.0
+fourletterphat==0.1.0
+slack-sdk==3.17.2
+spotipy==2.20.0
